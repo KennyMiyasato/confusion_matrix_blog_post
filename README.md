@@ -25,7 +25,7 @@ We want to benchmark our hypothetical binary classification models. So we try [N
 ![Decision Tree](images/decision_tree_cf.png)
 
 ### How do I choose the best model?
-Based on this hypothetical example I see that our best performing model was Naive Bayes because out of 50 False and True actual classes it was able to correctly identify 45 (90%) correctly.
+Based on this hypothetical example I see that our best performing model was Naive Bayes because out of 50 False and True actual classes it was able to correctly identify 45 (90%).
 
 ### What if my confusion matrix does not look like Naive Bayes and it looks more like the Logistic Regression and Decision Tree?
 If this is the case for you, you'll need to decide which you care about more [recall or precision](https://en.wikipedia.org/wiki/Precision_and_recall). More on this on the next blog post.
