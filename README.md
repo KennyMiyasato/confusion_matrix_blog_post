@@ -29,3 +29,11 @@ Based on this hypothetical example I see that our best performing model was Naiv
 
 ### What if my confusion matrix does not look like Naive Bayes and it looks more like the Logistic Regression and Decision Tree?
 If this is the case for you, you'll need to decide which you care about more [recall or precision](https://en.wikipedia.org/wiki/Precision_and_recall). More on this on the next blog post.
+
+## Useful Links / Resources:
+- [Confusion Matrix Wikipedia](https://en.wikipedia.org/wiki/Confusion_matrix)
+- [Scikit-Learn Confusion Matrix](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html)
+- [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+- [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
+- [Decision Tree](https://en.wikipedia.org/wiki/Decision_tree_learning)
+- [Precision and Recall](https://en.wikipedia.org/wiki/Precision_and_recall)
